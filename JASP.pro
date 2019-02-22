@@ -17,3 +17,6 @@ JASP-Desktop.depends = JASP-Common
 JASP-Engine.depends = JASP-Common
 
 unix: JASP-Engine.depends += $$JASP_R_INTERFACE_TARGET
+
+DISTFILES += \
+    Resources/Common/qml/equivalencetest.qml

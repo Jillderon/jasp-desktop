@@ -60,7 +60,12 @@
 				{
 					"title":	"Bayesian One Sample T-Test",
 					"function":	"TTestBayesianOneSample"
-				}
+                },
+                {
+                    "title":    "Equivalence Independent Samples T-Test",
+                    "function":  "EquivalenceIndependentSamplesTTest"
+                }
+
 			]
 		},
 		{

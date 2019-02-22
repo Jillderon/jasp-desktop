@@ -181,5 +181,6 @@ DISTFILES += \
     JASPgraphs/R/jaspLabelAxes.R \
     JASPgraphs/R/jaspScales.R \
     JASPgraphs/R/legendToPlotRatio.R \
-    JASPgraphs/R/themeJasp.R
+    JASPgraphs/R/themeJasp.R \
+    JASP/R/equivalenceindependentsamplesttest.R
 
